@@ -1,6 +1,6 @@
 
 <div id="header" align="middle">
-  <b>Luau/Python Developer</b>
+  <b>RLua/Python Developer</b>
 </div>
 
 <div id="header" align="middle"><img src="https://dcbadge.vercel.app/api/shield/535908923266301954?style=flat&theme=clean" /></div>
